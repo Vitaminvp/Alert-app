@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7f01b8d90787be4baaaa98d6d48ddd44",
+    "revision": "39144e063a8b139d85fec9292feac09e",
     "url": "/Alert-app/index.html"
   },
   {
-    "revision": "9ee65849b932f39aecbb",
+    "revision": "e1c4b921bb3904fd8f6d",
     "url": "/Alert-app/static/css/main.34de6062.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Alert-app/static/js/2.d0ae188b.chunk.js"
   },
   {
-    "revision": "9ee65849b932f39aecbb",
-    "url": "/Alert-app/static/js/main.52662b0f.chunk.js"
+    "revision": "e1c4b921bb3904fd8f6d",
+    "url": "/Alert-app/static/js/main.7919820c.chunk.js"
   },
   {
     "revision": "4785e4e3db4be72f3e45",
