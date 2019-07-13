@@ -55,8 +55,8 @@ class App extends React.PureComponent {
       "danger",
       "warning",
       "info",
-      "light",
-      "dark"
+      "dark",
+      "light"
     ];
     return (
       <div className="App">
@@ -91,8 +91,7 @@ class App extends React.PureComponent {
             <Row>
               <Col md={{ span: 6, offset: 3 }}>
                 {alerts.map((alert, index) => {
-                  const variant = variants[index % (variants.length + 1)];
-                  console.log(index % variant.length);
+                  const variant = variants[index % variants.length];
                   return (
                     <Alert key={index} variant={variant}>
                       {alert}
